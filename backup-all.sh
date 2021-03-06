@@ -4,4 +4,5 @@ echo -e "\n\n\n\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 /home/derek/backup/ignition-backup.sh >> /tmp/backup-ignition.log 2>&1
 /home/derek/backup/mediawiki-backup.sh >> /tmp/backup-mediawiki.log 2>&1
 /home/derek/backup/zoneminder-backup.sh >> /tmp/backup-zoneminder.log 2>&1
+/home/derek/backup/remote-access-backup.sh >> /tmp/backup-remote-access.log 2>&1
 /home/derek/backup/cleanup.sh >> /tmp/backup-cleanup.log 2>&1
